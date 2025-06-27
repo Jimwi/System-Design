@@ -76,10 +76,20 @@ Home Timeline  有关注的所有的人发的朋友圈
 今天看到视频
 1. Kafka Deep Dive 有认真看了一遍
 2. Design Tinder 没有跟着画图
-3. Cap Theorem
+3. Cap Theorem 画完图了
 
 
 ### 2025-06-25
 DB indexing 画图
 Consistent hash 简单
 
+
+### 2025-06-26
+1. 设计了 Home Timeline 和 user Timeline
+
+
+
+### 2025-06-27
+1. DB indexing 画图  done
+2. 学德语
+3. 修改下简历
